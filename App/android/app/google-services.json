@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "210514481042",
+    "project_id": "med-plus-f6d36",
+    "storage_bucket": "med-plus-f6d36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210514481042:android:5b6a6b546369cd6e113b4b",
+        "android_client_info": {
+          "package_name": "com.example.med_plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210514481042-56jbqrd2q5hqasgh1h1g24et6882ao13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB268N9WCQqqwK1iFpHKdgxkPbKnoQfOZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210514481042-56jbqrd2q5hqasgh1h1g24et6882ao13.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210514481042-p1irdka3telduffbdi5o6cnq6uhbmpd4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medPlus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
